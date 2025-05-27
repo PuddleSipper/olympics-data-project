@@ -19,3 +19,8 @@
 The URS was the Soviet Union
 The GDR was the German Democratic Republic
 The FRG was the Federal Republic of Germany
+
+### Reflection
+- I learnt that a 10 year old and a 97 year old played in the Olympics
+- I didn't find anything really challenging with setting up or using Pandas
+- I'd like to analyse some more events, such as concerts or national games to see how they differ from the Olympics
