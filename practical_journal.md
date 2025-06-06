@@ -33,7 +33,19 @@ The FRG was the Federal Republic of Germany
 2. The female athlete filter returned 74522 rows, the older athletes filter returned 16384
 
 ### A4 - A2
-Done in a4_main.py
+Done in a4_main
 
 ### A4 - A3
-Done in a4_main.py
+Done in a4_main
+- Completed on 6/6/2025
+
+## Day 3 - Continuation - 6/6/2025
+### A4 - A4
+- 11666 females in Athletics
+
+### A4 - A5
+- Done in a4_main
+
+### A4 - A6
+- Done in a4_main
+
