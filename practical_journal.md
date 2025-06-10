@@ -49,3 +49,10 @@ Done in a4_main
 ### A4 - A6
 - Done in a4_main
 
+## Day 4 - Continuation - 10/6/2025
+### A4 - Reflection
+- The easiest sorting activites were the ones with only one piece of information we needed to find, as it didn't require I add anything extra in a certain way
+- The most difficult grouping and sorting task were the one's where I needed to group using two sets of data and trying to configure the code. I needed to obtain help from a peer in order to complete this
+- Typically the tallest athletes would also be the heaviest athletes
+- To see what type of body shapes had the best chances of winning gold, to see the range of people that join the olympics and what age ranges they are at
+
