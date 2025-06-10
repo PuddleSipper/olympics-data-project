@@ -56,3 +56,4 @@ Done in a4_main
 - Typically the tallest athletes would also be the heaviest athletes
 - To see what type of body shapes had the best chances of winning gold, to see the range of people that join the olympics and what age ranges they are at
 
+### Trying out directories and managing directories
