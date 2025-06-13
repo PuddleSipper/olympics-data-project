@@ -57,3 +57,16 @@ Done in a4_main
 - To see what type of body shapes had the best chances of winning gold, to see the range of people that join the olympics and what age ranges they are at
 
 ### Trying out directories and managing directories
+- I HATE THIS
+
+## Day 5 - Data Cleaning - 13/06/2025
+
+### A5-A1
+- Height, Weight and Medal have the most missing values
+- Height and Weight might not have been measured, but Medals make sense as only a fair few people can get one
+
+### A5-A2
+- 64264 rows were dropped
+- Pros: you're able to get more accurate averages about columns with mising data, Cons: you get less accurate average stats and totals for certain values
+
+### A5-A3
