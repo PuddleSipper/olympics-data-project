@@ -69,4 +69,21 @@ Done in a4_main
 - 64264 rows were dropped
 - Pros: you're able to get more accurate averages about columns with mising data, Cons: you get less accurate average stats and totals for certain values
 
-### A5-A3
+### A5-A3 - 16/06/2025
+- The median age was around one less than the average age
+
+### A5-A4
+- Nothing out of the ordinary
+
+### A5-A5
+- Cleaning did improve the dataset in terms of averages
+- The average age of olympic athletes and other averages such as weight or height
+
+### A5-A6
+- Completed in a5_main
+- It is readable and useful but not entirely complete
+
+### A5-Reflection
+- The dirtiest column was Weight, with many missing values
+- Dropping missing data works best when attempting to find the most accurate information, fixing data works best when you don't want to completely get rid of rows and have missing variables
+- Data cleaning is important in order to achieve the most accurate information, especially with systems that may want to use or present it
