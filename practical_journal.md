@@ -87,3 +87,15 @@ Done in a4_main
 - The dirtiest column was Weight, with many missing values
 - Dropping missing data works best when attempting to find the most accurate information, fixing data works best when you don't want to completely get rid of rows and have missing variables
 - Data cleaning is important in order to achieve the most accurate information, especially with systems that may want to use or present it
+
+## Day 5 - Data Visualisation - 27/06/2025
+
+### A6-A1
+- Done in a6_main
+
+### A6-A2
+- The labels are readable
+- The title accurately describes what is shown
+
+### A6-A3
+- CODE BUGGED
