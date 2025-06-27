@@ -98,4 +98,7 @@ Done in a4_main
 - The title accurately describes what is shown
 
 ### A6-A3
-- CODE BUGGED
+- There is a fluctuating trend in the graph
+- This graph suggests that there have been multiple changes in athelete demographics, but overall, the ages are very similar
+
+### A6-A4
