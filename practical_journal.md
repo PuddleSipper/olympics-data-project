@@ -61,44 +61,60 @@ Done in a4_main
 
 ## Day 5 - Data Cleaning - 13/06/2025
 
-### A5-A1
+### A5 - A1
 - Height, Weight and Medal have the most missing values
 - Height and Weight might not have been measured, but Medals make sense as only a fair few people can get one
 
-### A5-A2
+### A5 - A2
 - 64264 rows were dropped
 - Pros: you're able to get more accurate averages about columns with mising data, Cons: you get less accurate average stats and totals for certain values
 
-### A5-A3 - 16/06/2025
+## Day 6 16/06/2025 - Continuation
+### A5 - A3 
 - The median age was around one less than the average age
 
-### A5-A4
+### A5 - A4
 - Nothing out of the ordinary
 
-### A5-A5
+### A5 - A5
 - Cleaning did improve the dataset in terms of averages
 - The average age of olympic athletes and other averages such as weight or height
 
-### A5-A6
+### A5 - A6
 - Completed in a5_main
 - It is readable and useful but not entirely complete
 
-### A5-Reflection
+### A5 - Reflection
 - The dirtiest column was Weight, with many missing values
 - Dropping missing data works best when attempting to find the most accurate information, fixing data works best when you don't want to completely get rid of rows and have missing variables
 - Data cleaning is important in order to achieve the most accurate information, especially with systems that may want to use or present it
 
-## Day 5 - Data Visualisation - 27/06/2025
+## Day 7 - Data Visualisation - 27/06/2025
 
-### A6-A1
+### A6 - A1
 - Done in a6_main
 
-### A6-A2
+### A6 - A2
 - The labels are readable
 - The title accurately describes what is shown
 
-### A6-A3
+### A6 - A3
 - There is a fluctuating trend in the graph
 - This graph suggests that there have been multiple changes in athelete demographics, but overall, the ages are very similar
 
-### A6-A4
+## Day 8 30/06/2025 - Continuation
+### A6 - A4 - 
+- Completed in a6_A3
+- The data remained relatively the same, just thicker columns representing more of each band
+
+### A6 - A5
+- Gold: 33.7%, Silver: 32.7%, Bronze: 33.6%
+
+### A6 - A6
+- done in a6_A6
+
+### A6 - Reflection
+- I feel like the all the charts were easy to understand, I've familiarised myself with datasets enough to understand them
+- Visualising data makes it much easier for people to understand. It is much more readable, and is therefore easier to show others and sell data this way.
+
+FINISHED!
